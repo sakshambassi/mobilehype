@@ -2,6 +2,7 @@
 Calculates hype percentage of different mobile brands based on polarity of tweets
 
 brandscrape.py scrapes smartphone brands and put them into excel file and mobilehype.py calculates hype percent and appends to excel file.  
+Both files uses Python3 version
 
 brandsrcape.py uses libraries like 
 - BeautifulSoup: to scrape data(names of smartphone makers) from the url given
